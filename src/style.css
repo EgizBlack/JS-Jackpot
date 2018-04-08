@@ -1,0 +1,31 @@
+/*css*/
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+body {
+  font-family: Quicksand;
+}
+.wrapper {
+  background:#0e5f99;
+  height: 300px;
+  width: 600px;
+  margin: 0 auto;
+}
+.title {
+  text-align: center;
+}
+#output {
+  height: 18px;
+  width: 200px;
+  outline: #333333 1px solid;
+  background:#fff;
+  margin: 0 auto;
+  text-align: center;
+
+  background: #fff;
+}
+.btn {
+  text-align:center;
+  margin: 0 auto;
+}
+.lastTwo {
+  color:#ff0000;
+}
