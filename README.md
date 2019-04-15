@@ -1,2 +1,2 @@
 This is simple number generator for jackopot.
-First project in javascrip.
+First project in javascript.
